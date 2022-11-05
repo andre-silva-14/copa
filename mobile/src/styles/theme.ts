@@ -23,7 +23,7 @@ export const THEME = extendTheme({
     white: "#FFFFFF",
   },
   fonts: {
-    //heading: "Roboto_700Bold",
+    heading: "Roboto_700Bold",
     body: "Roboto_400Regular",
     medium: "Roboto_500Medium",
   },
